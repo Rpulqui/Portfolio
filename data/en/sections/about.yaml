@@ -37,3 +37,9 @@ softSkills:
 - name: Team Work
   percentage: 90
   color: yellow
+- name: Hard Working
+  percentage: 90
+  color: orange
+- name: Problem Solving Attitude
+  percentage: 95
+  color: green
