@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Civil Chemical Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Gestión Ambiental S.A.
+  url: "http://www.sgasa.cl/sga/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
@@ -40,6 +40,12 @@ softSkills:
 - name: Hard Working
   percentage: 90
   color: orange
-- name: Problem Solving Attitude
+- name: Problem Solving
   percentage: 95
   color: green
+- name: Creativity
+  percentage: 95
+  color: sky
+- name: Critical Thinking
+  percentage: 90
+  color: pink
