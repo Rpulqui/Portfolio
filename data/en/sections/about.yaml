@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Civil Chemical Engineer
+designation: Project Engineer
 # your company information
 company:
   name: Gestión Ambiental S.A.
