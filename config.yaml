@@ -44,19 +44,19 @@ baseURL: https://rportfolio00.netlify.app/
 #     enable: true
 
 
-languageCode: en-us
+languageCode: es-es
 title: "RP Blog"
 theme: "toha"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  en:
-    languageName: English
-    weight: 1
   es:
     languageName: Spanish
-    weight: 3
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn

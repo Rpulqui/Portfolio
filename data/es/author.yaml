@@ -1,0 +1,17 @@
+# some information about you
+name: "Renán"
+nickname: "Renán"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hola, Soy"
+image: "images/author/john2.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "renan.pulquillanca@gmail.com"
+  phone: "+569 49463457"
+
+# some summary about what you do
+summary:
+  - Ingeniero Civil Químico
+  - Me encanta solucionar problemas
+  - Amo trabajar en proyectos divertidos
+  - Apasionado por 

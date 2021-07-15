@@ -1,0 +1,62 @@
+# section information
+section:
+  name: Habilidades
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: R
+  logo: "/images/sections/skills/R.png"
+  summary: "Análisis exploratorio y estadístico de datos"
+  url: "https://www.r-project.org/"
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Automatización de tareas."
+  url: "https://www.python.org/"
+
+- name: Matlab
+  logo: "/images/sections/skills/matlab.png"
+  summary: "Modelación, Simulación y análisis con Simulink"
+  url: "https://www.mathworks.com/"
+
+- name: Qgis
+  logo: "/images/sections/skills/qgis.png"
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  url: "https://kubernetes.io/"
+
+
+  
+- name: Iber
+  logo: "/images/sections/skills/iber.png"
+  summary: "Modelación numérica de calidad de aguas en cuerpos de agua superficial no estratificados como ríos, lagos y estuarios."
+  url: "https://iberaula.es/"
+
+- name: Arcgis
+  logo: "/images/sections/skills/arcgis.png"
+  summary: "Capaz de realizar consultas y análisis espaciales. Habilidades en bases de datos y geoestadística."
+  url: "https://www.arcgis.com/index.html"
+
+- name: SQL
+  logo: "/images/sections/skills/sql.png"
+  summary: "Capaz de diseñar, desplegar y administrar bases de datos en Azure. Posee experiencia en consultas avanzadas en SQL."
+
+- name: Power Bi
+  logo: "/images/sections/skills/pbi.png"
+  summary: "Extracción, Manipulación, Limpieza y Visualización de Datos."
+  url: "https://kubernetes.io/"
+
+- name: Power Apps
+  logo: "/images/sections/skills/powerapps.png"
+  summary: "Capaz de desarrollar complejas aplicaciones en PowerApps."
+  url: "https://kubernetes.io/"
+- name: Microsoft Excel
+  logo: "/images/sections/skills/excel.png"
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  url: "https://kubernetes.io/"

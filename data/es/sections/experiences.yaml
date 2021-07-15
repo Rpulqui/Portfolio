@@ -1,0 +1,69 @@
+# section information
+section:
+  name: Experiencia
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Gestión Ambiental S.A.
+    url: "https://www.example.com"
+    location: Santiago, Chile
+    # company overview
+    overview: SGA es una empresa de consultoría en gestión ambiental fundada en 1993. 
+              SGA presta servicios de gestión ambiental principalmente a empresas, 
+              pero también ha realizado importantes estudios para el sector gubernamental, 
+              para organismos no gubernamentales (ONG) y comunitarios, tanto en Chile como en el exterior, 
+              además se ha posicionado en el mercado como una empresa de gran reputación, 
+              cuya marca garantiza experiencia y un amplio conocimiento de Chile..
+  positions:
+  - designation: Ingeniero de Proyectos
+    start: Ene 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop XYZ tool for ABC task
+    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Lead backend team.
+
+  - designation: Memorista Ingeniería Civil Química
+    start: Ene 2019
+    end: Dic 2020
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
+
+- company:
+    name: PreExample Co.
+    url: "https://www.example.com"
+    location: Nowhere
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Software Engineer
+    start: March 2016
+    end: May 2017
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: Codelco
+    url: "https://www.example.com"
+    location: Intern Land
+    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Ayudante de Ingeniería
+    start: Jun 2015
+    end: Jan 2016
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as an intern.

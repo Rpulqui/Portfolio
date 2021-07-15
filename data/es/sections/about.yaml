@@ -1,0 +1,51 @@
+# section information
+section:
+  name: Acerca de mí
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Ingeniero de Proyectos
+# your company information
+company:
+  name: Gestión Ambiental S.A.
+  url: "http://www.sgasa.cl/sga/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Soy un ingeniero que le encanta aprender ads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Rpulqui"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Autoaprendizaje
+  percentage: 95
+  color: blue
+- name: Trabajo en equipo
+  percentage: 90
+  color: yellow
+- name: Trabajo duro
+  percentage: 90
+  color: orange
+- name: Innovación
+  percentage: 95
+  color: green
+- name: Creatividad
+  percentage: 95
+  color: sky
+- name: Amplio criterio
+  percentage: 90
+  color: pink
