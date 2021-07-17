@@ -12,7 +12,7 @@ section:
 experiences:
 - company:
     name: Gestión Ambiental S.A.
-    url: "https://www.example.com"
+    url: "http://www.sgasa.cl/sga/"
     location: Santiago, Chile
     # company overview
     overview: SGA es una empresa de consultoría en gestión ambiental fundada en 1993. 
@@ -28,42 +28,38 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Encargado de realizar la modelación numérica de la dispersión de contaminantes producto de la descarga de un efluente en el río Valdivia.
+    - Responsable de crear y administrar las bases de datos de proyectos mineros, entre ellos SIMCO, Albermarle, Barrick Gold, Teck, Minera Los Pelambres, Codelco DMH.
+    - Responsable del procesamiento, validación e interpretación de datos hidroquímicos de aguas superficiales y subterráneas de diferentes proyectos mineros. Además, encargado de diseñar y construir bases de datos en Azure SQL Server y crear flujos de trabajo para la automatización de los resultados.
+    - Encargado de elaborar líneas de base de calidad de aguas para proyectos con tramitación ambiental.
+    - Desarrollo de aplicaciones en PowerApps, automatización de flujos de trabajo en PowerAutomate, y, elaboración de reportes y dashboards en PowerBI.
 
   - designation: Memorista Ingeniería Civil Química
     start: Ene 2019
     end: Dic 2020
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Responsable de determinar la tasa de infiltración en sistemas lagunares del Salar de Atacama mediante sensores de temperatura y ecuaciones analíticas derivadas de la transferencia de calor.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Fresenius Kabi
+    url: "https://www.fresenius-kabi.com/cl/"
+    location: Santiago, Chile
+    overview: Fresenius Kabi es una compañía global que se especializa en desarrollar medicamentos y tecnologías para infusión, transfusión y nutrición clínica que salvan vidas.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Ayudante de Ingeniería
+    start: Ene 2018
+    end: Mar 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Responsable de realizar un Dashboard en Excel para la gerencia de producción de la empresa, en la cual se exhiben los indicadores KPI más importantes para el proceso productivo. Además, se estima la eficiencia general de producción de diversos equipos (OEE) mediante información histórica de los lotes producidos por las máquinas.
 
 - company:
     name: Codelco
-    url: "https://www.example.com"
-    location: Intern Land
+    url: "https://www.codelco.com/"
+    location: Calama, Chile
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
   - designation: Ayudante de Ingeniería
     start: Jun 2015
     end: Jan 2016
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Encargado de validar un modelo matemático de recuperación de cobre en pilas de lixiviación mediante técnicas de Machine Learning. Este modelo estimaba la concentración de cobre en PLS para futuros escenarios de explotación de mineral tanto de minerales oxidados y sulfurados.

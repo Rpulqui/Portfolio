@@ -12,10 +12,10 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
+- name: Profesional
+  filter: "profesional"
+- name: Académico
+  filter: "académico"
 - name: Hobby
   filter: "hobby"
 
@@ -30,14 +30,14 @@ projects:
   summary: Production-Grade Container Scheduling and Management.
   tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+- name: Enerbeet
+  logo: /images/sections/projects/remolacha.png
+  role: Ingeniero miembro
+  timeline: "Mar 2018 - Dic 2019"
+  #repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
+  summary: El objetivo general de este proyecto fue diseñar conceptualmente el proceso productivo de biocombustibles a partir de remolacha azucarera como materia prima.
+  tags: ["profesional","académico"]
 
 - name: Toha
   logo: /images/sections/projects/toha.png
