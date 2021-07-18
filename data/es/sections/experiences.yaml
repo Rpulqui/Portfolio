@@ -15,12 +15,9 @@ experiences:
     url: "http://www.sgasa.cl/sga/"
     location: Santiago, Chile
     # company overview
-    overview: SGA es una empresa de consultoría en gestión ambiental fundada en 1993. 
-              SGA presta servicios de gestión ambiental principalmente a empresas, 
-              pero también ha realizado importantes estudios para el sector gubernamental, 
-              para organismos no gubernamentales (ONG) y comunitarios, tanto en Chile como en el exterior, 
-              además se ha posicionado en el mercado como una empresa de gran reputación, 
-              cuya marca garantiza experiencia y un amplio conocimiento de Chile..
+    overview: SGA es una empresa consultora fundada en 1993, especializada en servicios de gestión ambiental. 
+              Sus principales servicios son Asesoría ambiental estratégica, Estudios y Declaraciones de Impacto Ambiental,
+              Gestión de Permisos, Seguimiento y Monitoreo de RCAs, Estudios Hidrológicos e Hidrogeológicos.
   positions:
   - designation: Ingeniero de Proyectos
     start: Ene 2020
@@ -56,7 +53,7 @@ experiences:
     name: Codelco
     url: "https://www.codelco.com/"
     location: Calama, Chile
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Codelco es una empresa dedicada a la exploración, desarrollo y explotación de recursos mineros de cobre y subproductos, su procesamiento y su comercialización.
   positions:
   - designation: Ayudante de Ingeniería
     start: Jun 2015
