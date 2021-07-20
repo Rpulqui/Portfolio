@@ -11,7 +11,7 @@ section:
 
 degrees:
 - name: Ingeniería Civil Química
-  icon: fa-graduation-cap
+  icon: fa-university 
   timeframe: 2016-2020
   institution:
     name: Universidad de Chile
@@ -64,7 +64,7 @@ degrees:
   # - Duis sed massa feugiat, ornare justo et, aliquam est.
   # - Pellentesque ut fringilla magna.
 - name: Licenciatura en Ciencias de la Ingeniería Mención Química
-  icon: fa-university
+  icon: fa-graduation-cap
   timeframe: 2012-2016
   institution:
     name: Universidad de Chile
